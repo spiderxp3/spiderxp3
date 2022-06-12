@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Pankaj this side :)</h1>
-<h3 align="center">Budding develop who always look for catchy stuff</h3>
+<h3 align="center">Budding developer who always look for catchy stuff</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spiderxp3&label=Profile%20views&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="spiderxp3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spiderxp3" alt="spiderxp3" /></a> </p>
