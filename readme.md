@@ -5,10 +5,7 @@ Hey there! I'm Pankaj !
  <img src="https://gpvc.arturio.dev/I-am-Pankaj" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
-<!-- Typing SVG by spiderxp3 - https://github.com/spiderxp3/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/spiderxp3/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering++Student;Front+End+Web+Developer;Ui+UX-developer ;DS%20|%20AI%20|%20ML%20Enthusiastic;Innovative%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5018&color=BE0CF7&center=true&vCenter=true&width=1000&height=100&lines=Hey%2C+there!!;It's+Pankaj.;Electronics+%26+Communication+Engineering+student+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
@@ -100,3 +97,12 @@ Hey there! Pankaj welcomes you !
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/spiderxp3/spiderxp3/blob/main/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/spiderxp3/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+-----
