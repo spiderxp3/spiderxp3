@@ -35,12 +35,7 @@ Hey there! Pankaj welcomes you !
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=spiderxp3&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/spiderxp3)
 
 <p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/spiderxp3/spiderxp3/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderxp3&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/spiderxp3/spiderxp3/blob/master/PNG/right.png">
-  </a>
-</p>
+
 
 #
 
@@ -85,6 +80,7 @@ Hey there! Pankaj welcomes you !
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
   <br/>
+	  
   </p>
 </details>
 
@@ -100,7 +96,12 @@ Hey there! Pankaj welcomes you !
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nneji123&theme=dark" /></a>
+  <a>
+    <img height="150" width="175" src="https://github.com/spiderxp3/spiderxp3/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderxp3&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/spiderxp3/spiderxp3/blob/master/PNG/right.png">
+  </a>
+</p>
   <br/>
 
 </details>
