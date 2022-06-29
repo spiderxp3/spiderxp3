@@ -81,7 +81,7 @@ Hey there! Pankaj welcomes you !
 <br>
 
 <p align="center">
-  <a href="https://github.com/JayantGoel001">
+  <a href="https://github.com/spiderxp3">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/spiderxp3">
@@ -98,6 +98,20 @@ Hey there! Pankaj welcomes you !
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+  <br/>
+  </p>
+</details>
 ----
 
 <p align="center">
