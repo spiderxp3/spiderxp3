@@ -7,20 +7,20 @@ Hey there! I'm Pankaj !
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5018&color=BE0CF7&center=true&vCenter=true&width=1000&height=100&lines=Hey%2C+there!!;It's+Pankaj.;Electronics+%26+Communication+Engineering+student+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://user-images.githubusercontent.com/91022462/178403419-ed387a43-2110-4491-a445-906729069bfc.png" width="340" />
 <hr>
 
 ```
 Hey there! Pankaj welcomes you !
 -------------------------
-💻 I am a student, developer
-📚 I am currently enrolled in NIT Hamirpur
-📝 I have a strong interest in Full stack development and Artificial Intelligence
+💻 Student at National Institute of Technology Hamirpur
+📚 Currently enrolled in B.tech Ece
+📝 I have a strong passion in Full stack development and Artificial Intelligence
 🔭 Working on React development & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: React, JavaScript, Python, 
-🚩 Interested in Full Stack Machine Learning development
-💖 In a complicated relationship with Neural Networks
+🚩 Interested in Full Stack integrated Machine Learning development and Blockchain development
+💖 In a complicated relationship with designs and codes
 🎵 Love melody, lofi, jazz and soft music
 ```
 <hr>
@@ -39,7 +39,7 @@ Hey there! Pankaj welcomes you !
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://o.remove.bg/downloads/ee35beba-a91c-4d55-820d-4d56eeb943c3/dunetocat-removebg-preview.png"></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -48,26 +48,28 @@ Hey there! Pankaj welcomes you !
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
+<code><img height="40" width="40" src="https://o.remove.bg/downloads/cee3d80b-6e61-4ad4-953f-4bee2406dc55/pngegg__2_-removebg-preview.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="50" width="40" src="https://user-images.githubusercontent.com/91022462/178396019-e1c75556-1e81-4f9e-a7d1-025244b6c5c3.png"></code>
 #
+
+
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/91022462/178397301-1ec70b00-90d1-4471-b838-45f345f1c92c.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/91022462/178399782-a66275df-2b01-4fc0-a7e6-c01695717580.png"></code>	
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/91022462/178397458-97d80312-4caf-4349-94bb-9177b0775912.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
-
-#
-
+	
+#	
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
 
 
