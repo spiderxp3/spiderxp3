@@ -39,16 +39,16 @@ Hey there! Pankaj welcomes you !
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://o.remove.bg/downloads/ee35beba-a91c-4d55-820d-4d56eeb943c3/dunetocat-removebg-preview.png"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://o.remove.bg/downloads/cee3d80b-6e61-4ad4-953f-4bee2406dc55/pngegg__2_-removebg-preview.png"></code>
+<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="45" width="45" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="45" width="45" src="https://www.vnurture.in/wp-content/uploads/2019/09/html5-icon-13.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
