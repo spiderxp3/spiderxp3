@@ -66,7 +66,7 @@ Hey there! Pankaj welcomes you !
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-
+<code><img height="40" width="40" src="https://www.logo.wine/a/logo/Ethereum/Ethereum-Logo.wine.svg"></code>
 <br/>
 	
 #	
@@ -77,7 +77,7 @@ Hey there! Pankaj welcomes you !
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pankaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spiderxp3&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pankaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spiderxp3&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spiderxp3&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
