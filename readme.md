@@ -99,9 +99,9 @@ Hey there! Pankaj welcomes you !
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
   <a>
-    <img height="150" width="175" src="https://github.com/spiderxp3/spiderxp3/blob/master/PNG/left.png">
+    <img height="150" width="175" src="https://user-images.githubusercontent.com/91022462/194767428-fb453eb6-db00-43bb-a6ec-cb8ab20831b5.png">    
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderxp3&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/spiderxp3/spiderxp3/blob/master/PNG/right.png">
+    <img height="150" width="175" src="https://user-images.githubusercontent.com/91022462/194767425-c769f276-1158-4055-8c52-e07782a4ed76.png">
   </a>
 </p>
   <br/>
