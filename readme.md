@@ -14,11 +14,11 @@ Hey there! I'm Pankaj !
 Hey there! Pankaj welcomes you !
 -------------------------
 💻 Student at National Institute of Technology Hamirpur
-📚 Currently enrolled in B.tech Ece
-📝 I have a strong passion in Full stack development and Artificial Intelligence
-🔭 Working on React development & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: React, JavaScript, Python, 
+📚 B.tech ECE - Pre final year student
+📝 I have a strong passion in Full stack development and Web3
+🔭 Working on React development & Learning Databases
+🌱 Learning about Web3 and Blockchain stuff
+🌟 Main languages: React, JavaScript, Python, Typescript.
 🚩 Interested in Full Stack integrated Machine Learning development and Blockchain development
 💖 In a complicated relationship with designs and codes
 🎵 Love melody, lofi, jazz and soft music
