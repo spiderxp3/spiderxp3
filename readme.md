@@ -26,13 +26,13 @@ Hey there! Pankaj welcomes you !
 <hr>
 
   <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-Xcalibur41.herokuapp.com%2Fapi%2FPankaj" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-Finnstar.herokuapp.com%2Fapi%2FPankaj" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p>
 
 #
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Xcalibur41&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Xcalibur41)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Finnstar&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Finnstar)
 
 <p align="center">
 
@@ -77,10 +77,10 @@ Hey there! Pankaj welcomes you !
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pankaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xcalibur41&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pankaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Finnstar&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xcalibur41&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Finnstar&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
   <br/>
 	  
   </p>
@@ -90,7 +90,7 @@ Hey there! Pankaj welcomes you !
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Xcalibur41"><img alt="Pankaj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Xcalibur41&theme=react-dark&hide_border=true&area=true" /></a>
+   <a href="https://github.com/Finnstar"><img alt="Pankaj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Finnstar&theme=react-dark&hide_border=true&area=true" /></a>
   <br/>
 
 </details>
@@ -100,18 +100,17 @@ Hey there! Pankaj welcomes you !
   <br/>
   <a>
     <img height="150" width="175" src="https://user-images.githubusercontent.com/91022462/194767428-fb453eb6-db00-43bb-a6ec-cb8ab20831b5.png">    
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xcalibur41&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Finnstar&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://user-images.githubusercontent.com/91022462/194767425-c769f276-1158-4055-8c52-e07782a4ed76.png">
   </a>
 </p>
-  <br/>
-
+  <br
 </details>
 
 ----
 
 <p align="center">
-  <img  src="https://github.com/Xcalibur41/Xcalibur41/blob/output/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/Finnstar/Finnstar/blob/output/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
