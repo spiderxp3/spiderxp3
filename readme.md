@@ -1,9 +1,6 @@
 <h1 align="center">
 Hey there! I'm Pankaj !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=Hey-there-its-Pankaj&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Pankaj" />-->
- <img src="https://gpvc.arturio.dev/I-am-Pankaj" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5018&color=BE0CF7&center=true&vCenter=true&width=1000&height=100&lines=Hey%2C+there!!;It's+Pankaj.;Electronics+%26+Communication+Engineering+student+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
@@ -28,6 +25,8 @@ Hey there! Pankaj welcomes you !
   <code>
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-spiderxp3.herokuapp.com%2Fapi%2FPankaj" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
+  
+  <img src="https://visitcount.itsvg.in/api?id=spiderxp3&label=Visits%20Count&color=12&icon=6&pretty=true" />
 </p>
 
 #
